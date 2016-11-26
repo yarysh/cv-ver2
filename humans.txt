@@ -1,0 +1,8 @@
+/* TEAM */
+  Andrey Yarysh <and@yarysh.pro>
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Modernizr
+  Software: IntelliJ IDEA, Git
+  Language: RU
